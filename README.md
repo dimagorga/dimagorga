@@ -7,7 +7,9 @@ I'm a JavaScript developer
 Hello, my name is Dzmitry and I'm a JavaScript developer. Have expirience with HTML, CSS, Scss, TypeScript, Next.js, Express.js, React.js, Redux, Expo, MongoDB and React UI Libraries, such as Ant Design and Material UI.
 
 *   🌍  I'm based in Belarus, Brest
-*   ✉️  You can contact me at [dimagorga@gmail.com](mailto:dimagorga@gmail.com)### Skills 
+*   ✉️  You can contact me at [dimagorga@gmail.com](mailto:dimagorga@gmail.com)
+  
+  ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
